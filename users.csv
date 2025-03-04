@@ -1,0 +1,6 @@
+row_id,user_id,user_state,user_manager
+1,user1@email.com,active,admin9@email.com
+2,user2@email.com,active,admin9@email.com
+3,user3@email.com,active,admin8@email.com
+4,user4@email.com,inactive,admin7@email.com
+5,user5@email.com,active,admin7@email.com

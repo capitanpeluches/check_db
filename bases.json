@@ -1,0 +1,42 @@
+[{
+	"name":"empleados",
+	"email_owner":"user1@email.com",
+	"size":9,
+	"clasificacion":"high",
+	"location": "cloud"
+
+},{
+	"name":"clientes",
+	"email_owner":"user2@email.com",
+	"size":44,
+	"clasificacion":"",
+	"location": ""
+
+},{
+	"name":"precios",
+	"email_owner":"user1@email.com",
+	"size":9,
+	"clasificacion":"medium",
+	"location": "onpremise"
+
+},{
+	"name":"catalogos",
+	"email_owner":"user3@email.com",
+	"size":51,
+	"clasificacion":"low",
+	"location": "cloud"
+
+},{
+	"name":"proveedores",
+	"email_owner":"user4@email.com",
+	"size":13,
+	"clasificacion":"high",
+	"location": "cloud"
+
+},{
+	"name":"proyectos",
+	"email_owner":"user5@email.com",
+	"size":22,
+	"clasificacion":"high",
+	"location": ""
+}]
